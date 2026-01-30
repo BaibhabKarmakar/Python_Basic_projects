@@ -71,3 +71,9 @@ Make Sure you have installed python3 in your computer .
   2. Improve documentation for each project
   3. Add example outputs
   4. Refactor code for better readability
+
+## 👤 Author
+Baibhab Karmakar
+🔗 GitHub: BaibhabKarmakar
+
+⭐ If you find this repository helpful, feel free to star it!
