@@ -62,12 +62,12 @@ Make Sure you have installed python3 in your computer .
   1. Python 3
   2.No external libraries required
 ## 🎯 Purpose of This Repository
-1. Practice Python basics
-2. Build consistency in coding
-3. Maintain a public learning record on GitHub
-4. Create a foundation for more advanced projects
+  1. Practice Python basics
+  2. Build consistency in coding
+  3. Maintain a public learning record on GitHub
+  4. Create a foundation for more advanced projects
 ## 🚀 Future Improvements
-1. Add more beginner & intermediate projects
-2. Improve documentation for each project
-3. Add example outputs
-4. Refactor code for better readability
+  1. Add more beginner & intermediate projects
+  2. Improve documentation for each project
+  3. Add example outputs
+  4. Refactor code for better readability
