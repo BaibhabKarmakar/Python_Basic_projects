@@ -1,0 +1,5 @@
+We are going to write a program that generates a random number and asks the user to guess it .  
+If the player's guess is higher than the actual game , the program  displays "Lower the guess" and if player's guess is lower , the program displays "higher the  guess" .
+When the user guess it perfect , then print  the number of tries and the number with a greetings . 
+
+hint : [use the ranndom module.]

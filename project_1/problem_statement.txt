@@ -1,0 +1,3 @@
+# We all have played snake , water gun game in our childhood. If you haven't Google the rules of this game ! Write a python program capable of playing this game with the user . 
+
+
