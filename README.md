@@ -23,7 +23,7 @@ Python_Basic_projects/
 
 ## 🧠 About the Projects
 
-### 🔹 Project 1
+### 🔹 Project 1 (Snake Water Gun Problem)
 - Contains basic Python programs
 - Focuses on understanding:
   - Variables
@@ -32,13 +32,19 @@ Python_Basic_projects/
   - Logical thinking
 - `problem_statement.txt` explains the task solved by the code
 
-### 🔹 Project 2
+### 🔹 Project 2 (The Perfect Guess)
 - Another beginner-level Python project
 - Designed to strengthen:
   - Problem-solving skills
   - Core Python concepts
 - Includes a problem statement for clarity
 
+### 🔹 Project 3 (Random Password Generation)
+- Another beginner-level Python project
+- Designed to strengthen:
+  - Problem-solving skills
+  - Core Python concepts
+- Includes a problem statement for clarity
 ---
 
 ## ▶️ How to Run the Programs
